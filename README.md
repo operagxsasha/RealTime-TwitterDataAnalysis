@@ -105,9 +105,9 @@ Collect and process real time x (formerly twitter) data to analyse popularity of
   ```
 - Go into the cloned directory
 - Run `pip install -r requirements.txt` to install all the dependencies.
-- Create a developer account on twitter: https://developer.twitter.com/en
+- Create a developer account on twitter: https://developer.x.com/en
 - Get your Twitter API credentials and replace the placeholders in twitter_config.py.
-    - Go to the Twitter Developer Portal Projects & Apps page at https://developer.twitter.com/en/portal/projects-and-apps
+    - Go to the Twitter Developer Portal Projects & Apps page at https://developer.x.com/en/portal/projects-and-apps
     - Find the API/consumer key and secret under the Consumer Keys section of the Keys and Tokens tab of your app
     - Your account's access token and secret for your app can be found under the Authentication Tokens section of the Keys and Tokens tab of your app
 - From inside the `app/` folder, you can run `python stream.py` which adds(streams) the tweets into `tweets.json`
@@ -124,13 +124,13 @@ The data recieved from twitter stream api is in a json format
 ### Important Module and Object Structures
 
   **The Overall Structure Of the Project**
-  [![twitter-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
+  [![x-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
 
 <!-- ### References and Important concepts For Analysis -->
 
 ## How to get started with contributions
 
-- Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md).
+- Read The [Contributing Guidelines](./Contributing.md) and [Code Of Conduct](https://github.com/kaustav202/RealTime-TwitterDataAnalysis/blob/main/Code_of_Conduct.md).
 
 #### Steps To Contribute
 
