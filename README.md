@@ -124,7 +124,7 @@ The data recieved from twitter stream api is in a json format
 ### Important Module and Object Structures
 
   **The Overall Structure Of the Project**
-  [![x-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
+  [![twitter-Info-Structure.png](https://i.postimg.cc/6p8wmzhn/twitter-Info-Structure.png)](https://postimg.cc/gxbfwVQ2)
 
 <!-- ### References and Important concepts For Analysis -->
 
